@@ -1,0 +1,2 @@
+prompt_id,run_date,pipeline_completed,report_saved,audio_saved,schema_valid,stories_requested_met,tool_errors,latency_seconds,faithfulness_1to5,script_quality_1to5,notes
+std-01,,,,,,,,,,,
